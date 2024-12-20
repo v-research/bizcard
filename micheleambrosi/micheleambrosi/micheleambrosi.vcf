@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ambrosi;Michele;;;
+FN:Michele Ambrosi
+ORG:V-Research
+ADR;TYPE=WORK:Lungadige Galtarossa, 21
+37133 Verona, Italy
+TITLE:CTO
+TEL;TYPE=CELL:+393405373157
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:michele.ambrosi@v-research.it
+URL;TYPE=Digital Business Card:
+URL:https://www.v-research.it/
+URL;TYPE=Website:https://www.v-research.it/
+URL;TYPE=LinkedIn:https://linkedin.com/in/michele-ambrosi-32275534
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:V-Research supports companies in addressing the challenges of governance, risk, and compliance in cybersecurity, offering strategic consulting and advanced security solutions.
+UID:EnBizCard-100694437
+END:VCARD

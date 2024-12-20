@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ferri;Davide;;;
+FN:Davide Ferri
+ORG:V-Research
+ADR;TYPE=WORK:Lungadige Galtarossa 21, Verona, Italy (ZIP 37133)
+TITLE:Research Engineer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+393514957854
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:davide.ferri@v-research.it
+URL;TYPE=Digital Business Card:
+URL:https://www.v-research.it/
+URL;TYPE=Website:https://www.v-research.it/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:V-Research supports companies in addressing the challenges of governance, risk, and compliance in cybersecurity, offering strategic consulting and advanced security solutions.
+UID:EnBizCard-100536577
+END:VCARD

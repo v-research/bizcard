@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rocchetto;Marco;;;
+FN:Marco Rocchetto
+ORG:V-Research
+ADR;TYPE=WORK:Lungadige Galtarossa, 21
+37133 Verona, Italy
+TITLE:CEO
+TEL;TYPE=CELL:+393498624012
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:marco@v-research.it
+URL;TYPE=Digital Business Card:
+URL:https://www.v-research.it/
+URL;TYPE=Website:https://www.v-research.it/
+URL;TYPE=LinkedIn:https://linkedin.com/in/marco-rocchetto
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:V-Research supports companies in addressing the challenges of governance, risk, and compliance in cybersecurity, offering strategic consulting and advanced security solutions.
+UID:EnBizCard-100345559
+END:VCARD
